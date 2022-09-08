@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hotimpulse
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning JavaScript and various frameworks.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 Hotimpulse#3387 
 
