@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lev
-- 👀 I’m a frontend developer.
-- 🌱 Love learning things about JavaScript and various frameworks.
+- 👀 I’m a frontend developer
+- 🌱 Love learning things about JavaScript and various frameworks
 - 📫 How to reach me:
 @levthechef on Discord 
 
