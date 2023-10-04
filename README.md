@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lev
-- 👀 I’m a frontend developer
+- 🎨 I’m a frontend developer
 - 🌱 Love learning things about JavaScript and various frameworks
 - 📫 How to reach me:
-@levthechef on Discord 
+@levthechef on Discord/Telegram 
 
 <!---
 Hotimpulse/Hotimpulse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
